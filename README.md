@@ -50,3 +50,6 @@ STARTING LOCATIONS HEATMAP:
 
 This heat map shows us the areas where most users start/pickup a bike to use are on the southern tip of the peninsula with areas around it being high use, highest use to the SW area of the peninsula
 ![Starting Locations Heat Map](https://github.com/RichelynScott/Bikesharing/blob/main/Starting%20Location%20Heat%20Map.png)
+
+### Summary
+Citi Bike has provided us with a lot of useful data that we were able to visualize through the use of Tableau to prove that a similar start-up in Des Mois, Iowa would be a feasible endeavor if it is determined that demand would also be there. For this project to work however, 2 additional visualizations that would help for future analysis would be one of bike utilization so we could determine which bikes would need service soonest or most often and a visualization displaying average trip distance/length to again help with bike servicing and utilization data.
