@@ -1,8 +1,7 @@
 # Bikesharing
 Tableau Visualization 
 
-[Link to Tableau StoryBoard](https://public.tableau.com/app/profile/richelyn.scott/viz/BikeSharingAnalysis_16278759425410/Story1?publish=yes)
-
+[Link to Tableau StoryBoard](https://public.tableau.com/app/profile/richelyn.scott/viz/BikeSharingAnalysis_16278759425410/CitiBikesStory?publish=yes)
 
 ### Overview
 
